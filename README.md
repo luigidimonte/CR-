@@ -26,9 +26,9 @@ A side project that applies portfolio-optimisation ideas to Clash Royale deck bu
 - **Optimal deck** (highest win rate among decks with positive synergy, λ = 0): Night Witch, Monk, Goblin Drill, Fire Spirit, Goblin Giant, Skeleton Barrel, Rascals, Hog Rider – average elixir 4.0.
 - **Friends' decks** all sit below the frontier (average card win rates of 49.8–53.0%), i.e. they are "inefficient portfolios".
 
-![Efficient frontier](images/efficient_frontier.png)
+![Efficient frontier](efficient_frontier.png)
 
-![Friends' decks vs the frontier](images/friends_vs_frontier.png)
+![Friends' decks vs the frontier](friends_vs_frontier.png)
 
 ## Robustness choices
 
