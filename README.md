@@ -1,6 +1,6 @@
 # Clash Royale Deck as a Portfolio
 
-A side project that applies portfolio-optimisation ideas to Clash Royale deck building: cards are treated as assets, and an 8-card deck as a portfolio.
+A project that applies portfolio-optimisation ideas to Clash Royale deck building: cards are treated as assets, and an 8-card deck as a portfolio.
 
 | Portfolio theory | Clash Royale |
 |---|---|
